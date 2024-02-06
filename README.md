@@ -56,11 +56,11 @@ A few good places to grab open data sets:
 
 ## CSV
 
-- [csvlens](https://lib.rs/crates/csvlens)
-- [xsv](https://lib.rs/crates/xsv)
-- [qsv](https://lib.rs/crates/qsv)
-- [hck](https://lib.rs/crates/hck)
-- [Choose](https://lib.rs/crates/choose)
+- [csvlens](https://lib.rs/crates/csvlens): Command line csv viewer
+- [xsv](https://lib.rs/crates/xsv): A high performance CSV command line toolkit.
+- [qsv](https://lib.rs/crates/qsv): A high performance CSV data-wrangling toolkit.
+- [hck](https://lib.rs/crates/hck): A sharp cut(1) clone.
+- [choose](https://lib.rs/crates/choose): A human-friendly and fast alternative to cut and (sometimes) awk
 
 ## JSON
 
