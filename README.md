@@ -81,4 +81,6 @@ A few good places to grab open data sets:
 
 ## General Format Conversion
 
-- [Pandoc - index](https://pandoc.org/)
+- [Pandoc](https://pandoc.org/): a universal document converter
+
+To see accepted formats run: `pandoc --list-input-formats` for input and `pandoc --list-output-formats` for output.
